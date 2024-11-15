@@ -16,7 +16,7 @@ Implement a Q-Learning algorithm for an agent navigating a grid environment to r
 ### Name: PRAVEEN S
 ### Register Number: 212222240077
 
-```
+```py
 def q_learning(env,
                gamma=1.0,
                init_alpha=0.5,
