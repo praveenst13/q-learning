@@ -85,12 +85,16 @@ def q_learning(env,
 
 ## OUTPUT:
 ### FVMC:
-<img width="324" alt="{B8B7B975-590F-412F-9001-9EF0020972DE}" src="https://github.com/user-attachments/assets/3b951d50-59d4-415c-be48-b3f663462ea7">
-<img width="868" alt="{B8C37C8E-99B5-4377-8D83-88254B49CE22}" src="https://github.com/user-attachments/assets/d0a3dfa4-6edd-4d96-b658-bc808141414f">
+![image](https://github.com/user-attachments/assets/cb88271f-68ff-47ab-87ff-70d8ee2e80c3)
+
+![image](https://github.com/user-attachments/assets/8cee3a7e-53f9-4da6-8cc5-0f6d751151bb)
+
 
 ### Qlearning
-<img width="333" alt="{37F3E59B-0BE7-4810-8581-819AC0A990C2}" src="https://github.com/user-attachments/assets/6c371be2-3fad-4e3e-a104-4186d876188e">
-<img width="902" alt="{DCBA3565-DBE8-4F98-90A9-D2A048113C18}" src="https://github.com/user-attachments/assets/5130570f-c696-4e7e-b279-c43008143638">
+![image](https://github.com/user-attachments/assets/032cb631-de06-41e5-b958-264de2161f23)
+
+![image](https://github.com/user-attachments/assets/a0634e12-ef7f-4000-a160-0d089a262edf)
+
 
 
 ## RESULT:
